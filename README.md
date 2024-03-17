@@ -3,8 +3,9 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-<h2>Goal: Demonstrate installation and setup skills for a web server, software configuration and database management.</h2>
-<p>In this lab, I install osTicket from the ground up using the necessary installation files. There are a few steps to take before the installation of the ticketing system. This lab is done on Windows 10 Pro  with a VM made on Azure. The necessary installation files that are referenced and used are located <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">here!</a><br />
+<h2>Goal: Demonstrate installation and setup skills for a web server, software configuration and database management, by creating a system where users can access the osTicket application through a web browser to submit and track support tickets, and where a support team can use the application to manage and respond to those tickets.</h2>
+<p>In this lab, I install osTicket from the ground up using the necessary installation files. There are a few steps to take before the installation of the ticketing system. This lab is done on Windows 10 Pro  with a VM made on Azure. The necessary installation files that are referenced and used are located <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">here!
+</a><br />
  </p>
 
  <h2>Environments and Technologies Used</h2>
