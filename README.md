@@ -89,7 +89,7 @@
 <p> osTicket should now bee succesdully installed!</p>
 <a href="https://imgur.com/aUEDsZe"><img src="https://i.imgur.com/aUEDsZe.png" title="source: imgur.com" /></a>
 
-<p>After everything is done, osTicket should now be installed! Before continuing to use osTicket, some clean up has to be done. First, delete the setup folder found in C:\inetpub\wwwroot\osTicket. Next, return to C:\inetpub\wwwroot\osTicket\include and change the permissions of the ost-config.php file. The file should no longer have full access to Everyone. Revert the permissions to "Read" only.</p>
+<p>Before continuing to use osTicket, some clean up has to be done. First, delete the setup folder found in C:\inetpub\wwwroot\osTicket. Next, return to C:\inetpub\wwwroot\osTicket\include and change the permissions of the ost-config.php file. The file should no longer have full access to Everyone. Revert the permissions to "Read" only.</p>
 
 <h2>osTicket Installed!</h2>
 
